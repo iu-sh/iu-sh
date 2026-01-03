@@ -8,7 +8,7 @@
         Always down to chat about Physics, Algorithms, or high-throughput architecture.
       </p>
       <p>
-        <a href="https://www.linkedin.com/in/winter-soldier/">
+        <a href="https://www.linkedin.com/in/iu-sh/">
           <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://www.instagram.com/__iu.sh/">
@@ -17,7 +17,7 @@
         <a href="mailto:ayushsingh1315@gmail.com">
           <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
         </a>
-        <a href="https://wintersoldier13.github.io/">
+        <a href="https://ayushsingh.is-a.dev/">
           <img src="https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
         </a>
       </p>
